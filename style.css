@@ -4,14 +4,19 @@ body{
 	background-color: black;
 }
 
-div{
+#group_leader{
 
 width: 80%;
 margin: auto;
 text-align: center;
 background-color: hotpink;
-color: black;
 text-transform: capitalize;
 
 
+}
+
+#muhammad_tijjani{
+	background-color: #ADCACB;
+	text-align: center;
+	overflow: none;
 }
