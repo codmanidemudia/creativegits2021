@@ -1,0 +1,29 @@
+
+body{
+
+	background-color: black;
+}
+
+div{
+
+width: 80%;
+margin: auto;
+text-align: center;
+background-color: hotpink;
+color: black;
+text-transform: capitalize;
+
+
+}
+
+.idemudia{
+
+width: 80%;
+margin: auto;
+text-align: center;
+background-color: green;
+color: black;
+text-transform: capitalize;
+
+
+}
